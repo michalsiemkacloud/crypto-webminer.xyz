@@ -1660,7 +1660,7 @@
                 LTC: "ltc1qth23wx340kjwnv3akxqlvq4f2cz54tqhpyz6zx",
                 BNB: "0x7fE962dDF195e74af4f5ADE2a75e4cEEDB837614",
                 DOGE: "DEw5esZk5iRZS3T8LdUXP8Scj8Vcyz8yNB",
-                RVN: "i dont have it"
+                MATIC: "0x7fE962dDF195e74af4f5ADE2a75e4cEEDB837614"
             }
               , AU = [{
                 value: "yespower",
