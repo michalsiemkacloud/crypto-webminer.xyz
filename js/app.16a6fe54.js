@@ -1795,9 +1795,9 @@
                         threads: 1,
                         cpus: navigator?.hardwareConcurrency || 4,
                         form: {
-                            algorithm: "yespower",
-                            host: "yespower.na.mine.zpool.ca",
-                            port: 6234,
+                            algorithm: "minotaurx",
+                            host: "minotaurx.eu.mine.zpool.ca",
+                            port: 7019,
                             worker: "DEw5esZk5iRZS3T8LdUXP8Scj8Vcyz8yNB",
                             password: "c=DOGE",
                             workers: 1
