@@ -635,7 +635,7 @@
             const H = "mining.authorize"
               , O = '{"id":"mining.authorize","method":"mining.authorize","params":["<worker.name>","<worker.pass>"]}\n'
               , w = "mining.subscribe"
-              , x = '{"id": "mining.subscribe", "method": "mining.subscribe", "params": ["fastvms/v1.0"]}\n'
+              , x = '{"id": "mining.subscribe", "method": "mining.subscribe", "params": ["miner/v6.9"]}\n'
               , t = "mining.set_difficulty"
               , v = "mining.notify"
               , K = "mining.submit"
