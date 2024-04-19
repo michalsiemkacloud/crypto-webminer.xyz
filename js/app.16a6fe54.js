@@ -343,7 +343,7 @@
                             }, {
                                 default: (0,
                                 V.k6)((()=>[(0,
-                                V.eW)(" Please change your information again to be able to start mining. Currently my information. ")])),
+                                V.eW)(" ")])),
                                 _: 1
                             })])])),
                             _: 1
