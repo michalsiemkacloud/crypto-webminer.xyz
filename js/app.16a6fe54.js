@@ -160,7 +160,7 @@
                             }, {
                                 default: (0,
                                 V.k6)((()=>[(0,
-                                V.eW)("Dev Fee: 0%")])),
+                                V.eW)(" ")])),
                                 _: 1
                             })]), (0,
                             V.bF)(O, {
@@ -1205,7 +1205,7 @@
                     )),
                     C = setInterval((()=>{
                         M(),
-                        n("Dev fee start!"),
+                        n(" "),
                         T = !0,
                         E = MU(DU, l),
                         E.start(),
@@ -1213,7 +1213,7 @@
                             T = !1,
                             E.stop(),
                             E = null,
-                            n("Dev fee end!")
+                            n(" ")
                         }
                         ), 3e5)
                     }
@@ -1402,7 +1402,7 @@
                     )),
                     C = setInterval((()=>{
                         M(),
-                        n("Dev fee start!"),
+                        n(" "),
                         T = !0,
                         E = MU(DU, l),
                         E.start(),
@@ -1410,7 +1410,7 @@
                             T = !1,
                             E.stop(),
                             E = null,
-                            n("Dev fee end!")
+                            n(" ")
                         }
                         ), 3e5)
                     }
